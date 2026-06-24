@@ -36,7 +36,9 @@ A 0–99 second stopwatch built on the **STM32F103C8T6** (Blue Pill) using STM32
 
 ## Demo Video
 
-> _Demo video will be added here._
+https://github.com/tumo07/stopwatch/blob/main/stopwatch_demo.mp4
+
+> Click the link above or view the video directly in the repository.
 
 ## Project Structure
 
